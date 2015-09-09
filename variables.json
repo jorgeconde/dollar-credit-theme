@@ -76,7 +76,7 @@
           "format": "text",
           "minLength": 1,
           "title" : "Heading Text Color (hex code):",
-          "default" : "#4486E1",
+          "default" : "#e62117",
           "options": {
             "validate": ["hex-color"]
           }
