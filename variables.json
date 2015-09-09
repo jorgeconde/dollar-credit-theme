@@ -46,7 +46,7 @@
         "widgetFont": {
           "type": "string",
           "title": "Widget Font:",
-          "default": "\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+          "default": "\"Roboto\", arial, sans-serif",
           "enum": [
             "\"Helvetica Neue\",Helvetica,Arial,sans-serif",
             "'Lato',sans-serif",
